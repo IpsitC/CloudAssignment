@@ -1,1 +1,1 @@
-"# My Small App" 
+"# My Small App - Version A" 
